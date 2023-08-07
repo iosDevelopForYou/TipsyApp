@@ -1,4 +1,4 @@
-# SwiftMarathon7-TipsyApp
+TipsyApp
 This app can calculate tips and split between all friends, who came to restaurant and forget how to calculate numbers in their mind)
 
 UI layout using code,
